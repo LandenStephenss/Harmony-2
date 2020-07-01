@@ -1,0 +1,34 @@
+{
+  "name": "harmony",
+  "version": "0.1.0",
+  "description": "very descriptive description",
+  "main": "lib",
+  "scripts": {
+    "lint": "eslint lib || true",
+    "lint:fix": "eslint --fix lib || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apacheli/Harmony-2.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord-api",
+    "harmony",
+    "nodejs"
+  ],
+  "author": "Apacheli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apacheli/Harmony-2/issues"
+  },
+  "homepage": "https://github.com/Apacheli/Harmony-2#readme",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.3.1"
+  }
+}
