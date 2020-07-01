@@ -7,7 +7,7 @@ A complete rewrite of [this abomination](https://github.com/Apacheli/Harmony).
 
 ### Contributing
 * Clone: `$ git clone --branch dev https://github.com/Apacheli/Harmony-2`
-* Install dependencies: `$ mpm i`
+* Install dependencies: `$ npm i`
 * Lint before committing: `$ npm run lint:fix`
 
 Please talk to me on Discord before opening any issues or pull requests. You can
